@@ -43,10 +43,13 @@ plugins:
 
 nav:
   - Home: https://PCHS-ProjectProgramming.github.io/KySTLPEngineers23/
-  - Documentation:
-    - Needs An Idea Thought Up: documentation/Sample-Page1.md
-    - Also Needs An Idea Thought Up: documentation/Sample-Page2.md
+  - STLP Resources:
+    - KY STLP Site: http://stlp.education.ky.gov
+    - STLP Super Sheet: https://docs.google.com/spreadsheets/d/10nJTf0FhPypjOaoGnBgcFSYEr0wzyf-GtfidHUkod5Q/edit#gid=1709744959
+    - STLP Project Toolkit: https://docs.google.com/presentation/d/1PsmAygFSIYVyDSC3zV8dVwBf8FgGvZnBsULznBTxhSA/edit#slide=id.ga47626b35a_1_80
+    - Level Up! Badges: https://sites.google.com/education.ky.gov/stlplevelup/home
+    - DPOJ Categories Slide Deck: https://docs.google.com/presentation/d/12mtb1hg7or6MW-Qnw-L08LC73bFKauade4b4LHi_cWI/edit#slide=id.gf9bd39e577_0_268
   - Extras:
-    - Github: https://github.com/PCHS-ProjectProgramming
+    - Github: https://github.com/PCHS-ProjectProgramming/kystlpengineers23
     - Meet The Crew!: documentation/Meet-The-Crew.md
     - Contact Us: documentation/Contact-Us.md
