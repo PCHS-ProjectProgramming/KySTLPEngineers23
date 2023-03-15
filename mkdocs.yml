@@ -1,5 +1,5 @@
 site_name: STLP-Resources
-site_url: https://PCHS-ProjectProgramming.github.io/kystlpengineers23/
+site_url: https://pchs-projectprogramming.github.io/KySTLPEngineers23/
 site_author: "Mason A. Thompson & My Fellow STLP Engineers"
 copyright: Copyright &copy; 2022-2023 Mason A. Thompson & All Other Contributing Parties
 
@@ -21,8 +21,7 @@ theme:
   favicon: assets/site-assets/STLP-2019-favicon.png
 
 extra:
-  #I'm completely guessing what this URL is going to be... js
-  homepage: https://PCHS-ProjectProgramming.github.io/kystlpengineers23/
+  homepage: https://PCHS-ProjectProgramming.github.io/KySTLPEngineers23/
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/PCHS-ProjectProgramming
@@ -43,10 +42,11 @@ plugins:
       video_autoplay: True
 
 nav:
-  - Home: https://PCHS-ProjectProgramming.github.io/kystlpengineers23/
+  - Home: https://PCHS-ProjectProgramming.github.io/KySTLPEngineers23/
   - Documentation:
     - Needs An Idea Thought Up: documentation/Sample-Page1.md
     - Also Needs An Idea Thought Up: documentation/Sample-Page2.md
   - Extras:
     - Github: https://github.com/PCHS-ProjectProgramming
     - Meet The Crew!: documentation/Meet-The-Crew.md
+    - Contact Us: documentation/Contact-Us.md
